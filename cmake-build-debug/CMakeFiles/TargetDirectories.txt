@@ -1,0 +1,3 @@
+C:/ECNU/Course/Model Drive Architecture for AI-ENABLED SYSTEM/Project/Code/cmake-build-debug/CMakeFiles/Code.dir
+C:/ECNU/Course/Model Drive Architecture for AI-ENABLED SYSTEM/Project/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ECNU/Course/Model Drive Architecture for AI-ENABLED SYSTEM/Project/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

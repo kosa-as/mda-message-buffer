@@ -1,0 +1,14 @@
+0 0 0 9336986 Msg from Producer 1 # 0
+00  0 0 9336986 0sg from Producer 0 # 0 0 9336986 Msg from Producer 2 # 0
+1 1 0 9337039 Msg from Producer 0 # 1
+1 1 0 9337039 Msg from Producer 2 # 1
+1 1 0 9337039 Msg from Producer 1 # 1
+2 2 0 9337102 Msg from Producer 1 # 2
+2 2 0 9337102 Msg from Producer 0 # 2
+2 2 0 9337102 Msg from Producer 2 # 2
+3 3 0 9337163 Msg from Producer 0 # 3
+3 3 0 9337163 Msg from Producer 1 # 3
+3 3 0 9337163 Msg from Producer 2 # 3
+4 4 0 9337242 Msg from Producer 1 # 4
+4 4 0 9337242 Msg from Producer 0 # 4
+4 4 0 9337242 Msg from Producer 2 # 4

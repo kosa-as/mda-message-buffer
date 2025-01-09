@@ -1,0 +1,15 @@
+# ninja log v6
+5	778	7581072484801622	CMakeFiles/Code.dir/main.cpp.obj	fc025c5bf7a5f168
+252	883	7581072487275323	CMakeFiles/Code.dir/ConsumerThread.cpp.obj	b39fd1ce250a5919
+883	1159	7581072493581945	Code.exe	5fb02024b5b0c091
+191	790	7581072486669315	CMakeFiles/Code.dir/ProducerThread.cpp.obj	c47d3adf95c72ae2
+60	516	7581072485352716	CMakeFiles/Code.dir/Message.cpp.obj	d3e5d5784eafb41f
+132	862	7581072486063983	CMakeFiles/Code.dir/MessageBufferTool.cpp.obj	ce46266115056998
+2	693	7581086029226658	build.ninja	35a1380d8258ef80
+140	733	7581086031785763	CMakeFiles/Code.dir/ProducerThread.cpp.obj	c47d3adf95c72ae2
+200	856	7581086032376802	CMakeFiles/Code.dir/ConsumerThread.cpp.obj	b39fd1ce250a5919
+82	897	7581086031196222	CMakeFiles/Code.dir/MessageBufferTool.cpp.obj	ce46266115056998
+24	980	7581086030627476	CMakeFiles/Code.dir/main.cpp.obj	fc025c5bf7a5f168
+980	1295	7581086040184024	Code.exe	5fb02024b5b0c091
+4	944	7581087168884065	CMakeFiles/Code.dir/main.cpp.obj	fc025c5bf7a5f168
+945	1283	7581087178301374	Code.exe	5fb02024b5b0c091
