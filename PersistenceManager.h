@@ -5,7 +5,6 @@
 #include <fstream>
 #include <iostream>
 #include "IBufferToolManager.h"
-
 /**
  * @brief 持久化管理器示例: 每次 pushMessage 后，将消息写到文件
  *        在 stop() 时可以flush或做额外操作
@@ -21,7 +20,6 @@ public:
             }
         }
     }
-
     void onAfterPush(const Message& msg) override {
         if (ofs_) {
             ofs_ << msg.seqId << " "
@@ -31,7 +29,6 @@ public:
                  << msg.content << "\n";
         }
     }
-
     void onStop() override {
         // 可以在这里 flush 并关闭文件
         if (ofs_) {
@@ -39,7 +36,6 @@ public:
             ofs_.close();
         }
     }
-
 private:
     std::string filePath_;
     std::ofstream ofs_;
